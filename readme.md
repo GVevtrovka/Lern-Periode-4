@@ -4,8 +4,8 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
+1. Aktuall möchte ich insbesondere in den Daten-Modulen etwas mehr mitkommen können, aber ebenfalls meine Programmierfähigkeit stark ausbauen.
+2. Aus meiner Sicht würde ich in dieser Lernperiode noch einmal etwas mit Win-Forms Programmieren, wozu ich jedoch noch keine geniale Idee habe.
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
