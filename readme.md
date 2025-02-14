@@ -9,13 +9,10 @@
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ...
-- [ ] ...
+- [x] Eine gute Idee finden, welche sowohl machbar, als auch nützlich sein sollte.
+- [ ] Versuchen ein Wegwerf-Prototyp zu programmieren....
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
-
+Lief heute für mich sehr schlecht leider und ich werde noch ein wenig weiterarbeiten and dem heutigen Tag...
 ## 21.2: Explorativer Wegwerf-Prototyp
 
 - [ ] ... (dieses AP sollte offline, also ohne Laptop zu bearbeiten sein)
