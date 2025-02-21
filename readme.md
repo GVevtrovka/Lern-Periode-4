@@ -15,14 +15,12 @@
 Lief heute für mich sehr schlecht leider und ich werde noch ein wenig weiterarbeiten and dem heutigen Tag...
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ... (dieses AP sollte offline, also ohne Laptop zu bearbeiten sein)
+- [x] Die grundfunktion für ein Flak erarbeiten.
 - [ ] ...
 - [ ] ...
 - [ ] ...
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Ich habe mich heute definitiv entschieden in WinForms ein eigenes Spiel namens Crazy Flak zu programmiren, wo man mit einem FLAK geschütz FLugzeuge abschiesst. Das Spiel soll im verlauf immer schwieriger werden und es soll bis Level 1000 gehen. Im Wegwewrf-Prototyp habe ich mich hauptsächlich auf das Erfolgreiche verwenden der Tastatur fokusiert, da es in WinForms noch um einiges anders War als in der Konsole.
 
 ## 28.2: Kern-Funktionalität
 
