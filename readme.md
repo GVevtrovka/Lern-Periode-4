@@ -23,8 +23,17 @@ Lief heute für mich sehr schlecht leider und ich werde noch ein wenig weiterarb
 Ich habe mich heute definitiv entschieden in WinForms ein eigenes Spiel namens Crazy Flak zu programmiren, wo man mit einem FLAK geschütz FLugzeuge abschiesst. Das Spiel soll im verlauf immer schwieriger werden und es soll bis Level 1000 gehen. Im Wegwewrf-Prototyp habe ich mich hauptsächlich auf das Erfolgreiche verwenden der Tastatur fokusiert, da es in WinForms noch um einiges anders War als in der Konsole.
 
 ## 28.2: Kern-Funktionalität
-- [ ] Herausfinden Ob und wenn möglich wie man objekte in Win Forms dreht, wobei ``RotateTransform`` hilfreich sein könnte. (Herausforderung)
-- [ ] Herausgefundene Formeln in dem Programm umsetztn (Herausforderung)
+- [x] Herausfinden Ob und wenn möglich wie man objekte in Win Forms dreht, wobei ``RotateTransform`` hilfreich sein könnte. (Herausforderung)
+- [x] Herausgefundene Formeln in dem Programm umsetztn (Herausforderung)
+
+Habe mich schliesslich primär auf das Programmieren fokusiert.
+
+## 07.2: Kern-Funktionalität
+- [x] Die Animation für die Flak-Projektile fertigstellen.
+- [ ] Flugzeuge hinzufügen mit Animation.
+- [ ] Die Kernfunktion fertigstellen.
+- [ ] Das Abschussystem fertigstellen, sodas Flugzeuge schon abgeschossen werden können.
+Musste einmal das gesamte Programm neu machen, da es irgendwie Schaden nahm und dies nicht mehr wirklich reparierbar wars. 
 
 ## 7.3: Kern-Funktionalität
 
