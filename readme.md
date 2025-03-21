@@ -36,6 +36,11 @@ Habe mich schliesslich primär auf das Programmieren fokusiert.
 Musste einmal das gesamte Programm neu machen, da es irgendwie Schaden nahm und dies nicht mehr wirklich reparierbar wars. 
 
 ## 7.3: Kern-Funktionalität
+- [x] Werde das Programm so abändern, dass es nur feuert wenn man klickt
+- [x] Dies umfasst einen Cooldown.
+- [ ] und ebenfalls soll schon mal die zerstörung eines Flugzeuges gemacht werden.
+
+Werde am 14.3 etwas mehr machen für die Kernfunktionalität wegen etwas leichtem Rückstand.
 
 ## 14.3: Architektur ausbauen
 
