@@ -35,7 +35,7 @@ Habe mich schliesslich primär auf das Programmieren fokusiert.
 - [ ] Das Abschussystem fertigstellen, sodas Flugzeuge schon abgeschossen werden können.
 Musste einmal das gesamte Programm neu machen, da es irgendwie Schaden nahm und dies nicht mehr wirklich reparierbar wars. 
 
-## 14.3: Kern-Funktionalität
+## 14.3: Architektur ausbauen
 - [x] Werde das Programm so abändern, dass es nur feuert wenn man klickt
 - [x] Dies umfasst einen Cooldown.
 - [ ] und ebenfalls soll schon mal die zerstörung eines Flugzeuges gemacht werden.
