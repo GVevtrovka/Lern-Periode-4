@@ -35,15 +35,16 @@ Habe mich schliesslich primär auf das Programmieren fokusiert.
 - [ ] Das Abschussystem fertigstellen, sodas Flugzeuge schon abgeschossen werden können.
 Musste einmal das gesamte Programm neu machen, da es irgendwie Schaden nahm und dies nicht mehr wirklich reparierbar wars. 
 
-## 7.3: Kern-Funktionalität
+## 14.3: Kern-Funktionalität
 - [x] Werde das Programm so abändern, dass es nur feuert wenn man klickt
 - [x] Dies umfasst einen Cooldown.
 - [ ] und ebenfalls soll schon mal die zerstörung eines Flugzeuges gemacht werden.
 
-Werde am 14.3 etwas mehr machen für die Kernfunktionalität wegen etwas leichtem Rückstand.
+Werde am 21.3 etwas mehr machen für die Kernfunktionalität wegen etwas leichtem Rückstand.
 
-## 14.3: Architektur ausbauen
-
+## 21.3: Architektur ausbauen
+- [ ] Das letzte Task vonm 7.3 Erfüllen.
+- [x] Einen guten HIntergrund einfügen.
 ## 21.3: Architektur ausbauen
 
 ## 28.3: Auspolieren
