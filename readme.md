@@ -43,8 +43,10 @@ Musste einmal das gesamte Programm neu machen, da es irgendwie Schaden nahm und 
 Werde am 21.3 etwas mehr machen für die Kernfunktionalität wegen etwas leichtem Rückstand.
 
 ## 21.3: Architektur ausbauen
+- [x] Flugzeugbewegung machen.
 - [ ] Das letzte Task vonm 7.3 Erfüllen.
 - [x] Einen guten Hintergrund einfügen.
+- [x] Etwas Zeit  vom letzten mal aufholen.
 Kam heute aus meiner Sicht super vorwärts, doch brachte es leider noch nicht hin, eine funktionierende Hitbox zu machen, da diese einfach nicht funktionierte. (vielleicht liegt es an meiner Mathe, aber ich weiss es echt ned)
 ## 21.3: Architektur ausbauen
 
