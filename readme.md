@@ -51,6 +51,18 @@ Kam heute aus meiner Sicht super vorwärts, doch brachte es leider noch nicht hi
 ## 21.3: Architektur ausbauen
 
 ## 28.3: Auspolieren
+- [x] Flugzeugmodelle Hinzufügen
+- [x] Geschwindigkeitsarray für jedes Flugzeug einzigartig.
+- [x] Bessere Flugzeuge Seltener machen als schlechtere.
+- [x] Array, um mehr Punkte zu machen für ein besseres Flugzeug, als für ein schlechteres Flugzeug.
+
+War heute sehr arbeitseffizient und habe das Spiel fast fertiggestellt. Was noch nicht fertig ist ist die Hintergrundmusik und das Upgraden der Feuerrate.
+
+## 4.4:
+- [ ] Hintergrundmusik funktionabel machen.
+- [ ] Sound für Schiessen hinzufügen vlt noch in Audacity vorbereiten.
+- [ ] Sound für Explosion HInzufügen vlt auch in Audacity vorbereiten.
+- [ ] Fehler mit Verschwinden am anderen Ende des Screens bei Flugzeugen noch fixen.
 
 ## 4.4: Auspolieren & Abschluss
 
