@@ -61,6 +61,7 @@ War heute sehr arbeitseffizient und habe das Spiel fast fertiggestellt. Was noch
 - [ ] Hintergrundmusik funktionabel machen.
 - [ ] Sound für Schiessen hinzufügen vlt noch in Audacity vorbereiten.
 - [ ] Sound für Explosion HInzufügen vlt auch in Audacity vorbereiten.
+- [x] Upgrade Buttom funktionabel gemacht. 
 - [x] Fehler mit Verschwinden am anderen Ende des Screens bei Flugzeugen noch fixen.
 
 Mit Sounds habe ich noch ziemlich probleme, was dazu führt, dass ich keine Sounds hinzugefügt habe. 
