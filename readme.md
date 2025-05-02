@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. Aktuall möchte ich insbesondere in den Daten-Modulen etwas mehr mitkommen können, aber ebenfalls meine Programmierfähigkeit stark ausbauen.
+1. Aktuell möchte ich insbesondere in den Daten-Modulen etwas mehr mitkommen können, aber ebenfalls meine Programmierfähigkeit stark ausbauen.
 2. Aus meiner Sicht würde ich in dieser Lernperiode noch einmal etwas mit Win-Forms Programmieren, wozu ich jedoch noch keine geniale Idee habe.
 
 ## 14.2: Explorativer Wegwerf-Prototyp
