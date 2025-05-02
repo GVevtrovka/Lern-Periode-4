@@ -67,3 +67,19 @@ War heute sehr arbeitseffizient und habe das Spiel fast fertiggestellt. Was noch
 Mit Sounds habe ich noch ziemlich probleme, was dazu führt, dass ich keine Sounds hinzugefügt habe. 
 Sonst funktioniert das Ganze jetzt ganz akzeptabel.
 
+## Endprodukt
+Das Endprodukt ist ein lustiges Spiel, welches gute reaktionszeit von dier verlangt.
+
+## Regeln
+  - Man kann insgesamt 6 Upgrades durchführen, welche 50 Punkte kosten pro Upgrade.
+  - Je nachdem, wie schnell ein Flugzeug ist gibt die Zerstörung auch mehr Punkte.
+  - Das Spiel hat noch kein ende, was bedeutet, dass du unendlich weiterspielen kannst.
+
+## Das Spiel
+![Unbenanntes Video](https://github.com/user-attachments/assets/6eaf0f68-5857-46e4-9f62-b2e224e810d1)
+
+## Reflexion
+Ich bin sehr froh, dass ich mal wieder eines meiner Projekte vollständig beenden konnte. Dies war bei den beiden letzten Lernumgebungn meist nicht 100% der Fall.
+Zusätzlich konnte ich bei diesem Spiel sehr viel meiner bisherigen Erfahrung anwenden, was ich natürlich sehr gut fand. Ich hatte jedoch während der Arbeit an meinem Projekt auch so einige Probleme, welche sich jedoch in der Regel gelöst haben.
+
+
