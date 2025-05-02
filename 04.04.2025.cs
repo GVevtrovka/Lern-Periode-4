@@ -37,16 +37,6 @@ namespace Vevtrovka_Project
         public int Destroys = 0;
         public int AttackNumber;
         public int BulletSpeed = 15;
-        //flakArray1[0] = explosion1_1;
-        //flakArray1[1] = explosion2_1;
-        //flakArray1[2] = explosion3_1;
-        //flakArray1[3] = explosion4_1;
-        //flakArray1[4] = explosion5_1;
-        //roundArray1[0] = round1_1;
-        //roundArray1[1] = round2_1;
-        //roundArray1[2] = round3_1;
-        //roundArray1[3] = round4_1;
-        //roundArray1[4] = round5_1;
 
         public Form1()
         {
@@ -62,11 +52,6 @@ namespace Vevtrovka_Project
             flak1.Show();
             pictureBox1.Show();
             textBox1.ReadOnly = false;
-            //flakFiring = true;
-            //flakNumber = 1;
-            //explosionNumber = 1;
-            //PictureBox[] flakArray1 = new PictureBox[20];
-            //PictureBox[] roundArray1 = new PictureBox[20];
             explosion1_1.Hide();
             explosion2_1.Hide();
             explosion3_1.Hide();
@@ -129,14 +114,10 @@ namespace Vevtrovka_Project
             Plane[8].Hide();
             Plane[9].Hide();
             _ = fly();
-            //System.Media.SoundPlayer player = new System.Media.SoundPlayer("Music\\Fortunate-Son.mp3");
-            //player.Play();
         }
         public async Task Fire()
         {
             flakFiring = true;
-            //for (int I = 0; I < 5; I++)
-            //{
             xposRound = 386;
             yposRound = 305;
             for (int J = 0; J < 16; J++)
@@ -148,66 +129,22 @@ namespace Vevtrovka_Project
             }
             roundArray1[I].Hide();
             fired = true;
-            //destruction();
             flakArray1[I].Show();
             exploded = true;
-            //_ = destruction();
             await Task.Delay(250);
             exploded = false;
             flakArray1[I].Hide();
             await Task.Delay(shootingIntervall);
-            //I++;
             flakFiring = false;
-            //if (I == 4)
-            //{
-            //    I = 0;
-            //}
         }
-        //public static void destruction()
-
-        //}
-        //{
-        //    for (int K = 0; K < 3; K++)
-        //    {
-        //        if (xposPlane1 <= minxposExplosion1 && xposPlane1 >= maxxposExplosion1 && exploded == true)
-        //        {
-
-        //exploded = false;
-        //await Task.Delay(1);
-        //await TaskForce();
-        //Plane1.Hide();
-        //Plane1.Location = new Point(-122, 40);
-        //destroyed = true;
-        //await Task.Delay(10);
-        //destroyed = false;
-        //Plane1.Show();
-        //await Task.Delay(10);
-        //        }
-        //    }
-
-        //}
-        //public async Task TaskForce()
-        //{
-        //    Plane1.Hide();
-        //    Plane1.Location = new Point(-122, 40);
-        //    //destroyed = true;
-        //    await Task.Delay(1000);
-        //    //destroyed = false;
-        //    Plane1.Show();
-        //}
         public async Task fly()
         {
             while (running)
             {
-                //if (!destroyed)
-                //{
                 yposPlane1 = -103;
                 xposPlane1 = 64;
-                //Gambling wich one comes
                 Random random = new Random();
                 AttackNumber = random.Next(1, 100);
-                //AttackNumber = Convert.ToInt32(random);
-
                 if (AttackNumber >= 1 && AttackNumber <= 30)
                 {
                     AttackNumber = 0;
@@ -248,8 +185,6 @@ namespace Vevtrovka_Project
                 {
                     AttackNumber = 9;
                 }
-                //}
-                //30, 20, 15, 10, 8, 6, 4, 3, 2, 2
                 Plane[AttackNumber].Show();
                 for (int S = 0; S < 56; S++)
                 {
@@ -273,14 +208,6 @@ namespace Vevtrovka_Project
                 Plane[AttackNumber].Hide();
             }
         }
-
-        //}
-        //15x56
-        //744; 40
-        //-112; 40
-        //22; 52
-        //22; 305
-
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
         }
@@ -294,8 +221,6 @@ namespace Vevtrovka_Project
             if (Start == true)
             {
                 Flakfire();
-                //_ = fly();
-                //_ = destruction();
                 Start = false;
             }
             else
@@ -306,18 +231,6 @@ namespace Vevtrovka_Project
                 }
             }
             return;
-            //if (flakFiring == false)
-            //{
-            //    Fire();
-            //    flakFiring = true;
-            //}
-
-            //if (flakFiring == false)
-            //{
-            //    Fire();
-            //    flakFiring = true;
-            //}
-
         }
 
         private void Plane1_Click(object sender, EventArgs e)
@@ -337,11 +250,3 @@ namespace Vevtrovka_Project
         }
     }
 }
-
-//Make a Speed for different plane versons
-//Add more plane versions
-//Add a Countdown when game ends.
-//Make if they not get shot you die.
-//SpeedArray
-//PointArray
-//PlaneArray
